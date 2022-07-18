@@ -1,0 +1,19 @@
+{
+  "name": "js-pattern-test",
+  "version": "1.0.0",
+  "description": "공부중",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scwon/js-pattern-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scwon/js-pattern-test/issues"
+  },
+  "homepage": "https://github.com/scwon/js-pattern-test#readme"
+}
